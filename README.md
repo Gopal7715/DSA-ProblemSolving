@@ -22,6 +22,7 @@
 |  |
 | ------- |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Gopal7715/DSA-ProblemSolving/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3859-maximum-product-of-two-digits](https://github.com/Gopal7715/DSA-ProblemSolving/tree/master/3859-maximum-product-of-two-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -34,4 +35,8 @@
 |  |
 | ------- |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Gopal7715/DSA-ProblemSolving/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Sorting
+|  |
+| ------- |
+| [3859-maximum-product-of-two-digits](https://github.com/Gopal7715/DSA-ProblemSolving/tree/master/3859-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
