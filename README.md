@@ -18,4 +18,20 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Gopal7715/DSA-ProblemSolving/tree/master/0074-search-a-2d-matrix) |
+## Math
+|  |
+| ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Gopal7715/DSA-ProblemSolving/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Gopal7715/DSA-ProblemSolving/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Recursion
+|  |
+| ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Gopal7715/DSA-ProblemSolving/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Simulation
+|  |
+| ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Gopal7715/DSA-ProblemSolving/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 <!---LeetCode Topics End-->
