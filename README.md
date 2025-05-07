@@ -31,6 +31,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/Gopal7715/DSA-ProblemSolving/tree/master/0389-find-the-difference) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Gopal7715/DSA-ProblemSolving/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
 |  |
@@ -44,6 +45,15 @@
 ## Sorting
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/Gopal7715/DSA-ProblemSolving/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Gopal7715/DSA-ProblemSolving/tree/master/0628-maximum-product-of-three-numbers) |
 | [3859-maximum-product-of-two-digits](https://github.com/Gopal7715/DSA-ProblemSolving/tree/master/3859-maximum-product-of-two-digits) |
+## Hash Table
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/Gopal7715/DSA-ProblemSolving/tree/master/0389-find-the-difference) |
+## String
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/Gopal7715/DSA-ProblemSolving/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
