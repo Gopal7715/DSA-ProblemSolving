@@ -9,6 +9,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Gopal7715/DSA-ProblemSolving/tree/master/0628-maximum-product-of-three-numbers) |
 | [2048-build-array-from-permutation](https://github.com/Gopal7715/DSA-ProblemSolving/tree/master/2048-build-array-from-permutation) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Gopal7715/DSA-ProblemSolving/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Gopal7715/DSA-ProblemSolving/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -52,8 +53,13 @@
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Gopal7715/DSA-ProblemSolving/tree/master/0389-find-the-difference) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Gopal7715/DSA-ProblemSolving/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## String
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Gopal7715/DSA-ProblemSolving/tree/master/0389-find-the-difference) |
+## Two Pointers
+|  |
+| ------- |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Gopal7715/DSA-ProblemSolving/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 <!---LeetCode Topics End-->
