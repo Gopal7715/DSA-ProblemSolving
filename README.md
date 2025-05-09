@@ -6,6 +6,7 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Gopal7715/DSA-ProblemSolving/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gopal7715/DSA-ProblemSolving/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0349-intersection-of-two-arrays](https://github.com/Gopal7715/DSA-ProblemSolving/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Gopal7715/DSA-ProblemSolving/tree/master/0628-maximum-product-of-three-numbers) |
 | [2048-build-array-from-permutation](https://github.com/Gopal7715/DSA-ProblemSolving/tree/master/2048-build-array-from-permutation) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Gopal7715/DSA-ProblemSolving/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -18,6 +19,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Gopal7715/DSA-ProblemSolving/tree/master/0074-search-a-2d-matrix) |
+| [0349-intersection-of-two-arrays](https://github.com/Gopal7715/DSA-ProblemSolving/tree/master/0349-intersection-of-two-arrays) |
 ## Matrix
 |  |
 | ------- |
@@ -47,12 +49,14 @@
 ## Sorting
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Gopal7715/DSA-ProblemSolving/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Gopal7715/DSA-ProblemSolving/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Gopal7715/DSA-ProblemSolving/tree/master/0628-maximum-product-of-three-numbers) |
 | [3859-maximum-product-of-two-digits](https://github.com/Gopal7715/DSA-ProblemSolving/tree/master/3859-maximum-product-of-two-digits) |
 ## Hash Table
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Gopal7715/DSA-ProblemSolving/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Gopal7715/DSA-ProblemSolving/tree/master/0389-find-the-difference) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Gopal7715/DSA-ProblemSolving/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## String
@@ -62,5 +66,6 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Gopal7715/DSA-ProblemSolving/tree/master/0349-intersection-of-two-arrays) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Gopal7715/DSA-ProblemSolving/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 <!---LeetCode Topics End-->
