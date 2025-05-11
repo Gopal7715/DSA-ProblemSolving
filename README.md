@@ -29,6 +29,7 @@
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Gopal7715/DSA-ProblemSolving/tree/master/0628-maximum-product-of-three-numbers) |
+| [2507-number-of-common-factors](https://github.com/Gopal7715/DSA-ProblemSolving/tree/master/2507-number-of-common-factors) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Gopal7715/DSA-ProblemSolving/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2630-alternating-digit-sum](https://github.com/Gopal7715/DSA-ProblemSolving/tree/master/2630-alternating-digit-sum) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Gopal7715/DSA-ProblemSolving/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -72,4 +73,12 @@
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Gopal7715/DSA-ProblemSolving/tree/master/0349-intersection-of-two-arrays) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Gopal7715/DSA-ProblemSolving/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+## Enumeration
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/Gopal7715/DSA-ProblemSolving/tree/master/2507-number-of-common-factors) |
+## Number Theory
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/Gopal7715/DSA-ProblemSolving/tree/master/2507-number-of-common-factors) |
 <!---LeetCode Topics End-->
